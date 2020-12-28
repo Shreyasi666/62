@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+.gamelab {
+    height: 95%;
+    width: 75%;
+    transition: transform;
+
+}
+
+.gamelab:hover {
+    transform: scale(0.8)
+}
+
+h1 {
+    font-size: 30;
+    color: black;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.photo {
+    height: 300px;
+    width: 300px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+#photo-grid {
+    ;
+    background-color: blueviolet;
+}
+
+#photo-grid:hover {
+    background-color: crimson
+}
+
+#photo-gallery:hover {
+    background-color: crimson
+}
